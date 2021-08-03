@@ -1,5 +1,5 @@
 {
-  "name": "gen-tpl",
+  "name": "mf-tpl",
   "version": "0.0.1",
   "description": "generator 模板",
   "main": "index.js",
